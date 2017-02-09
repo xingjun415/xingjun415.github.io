@@ -2,7 +2,7 @@
 
 Softmax函数如下图所示： 
  
-![softmax](./imgs/softmax.png)
+![softmax](./imgs/softmax.PNG)
 
 ```
 import numpy as np
